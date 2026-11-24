@@ -1,0 +1,8 @@
+.env
+audit_log.jsonl
+*.audit.jsonl
+__pycache__/
+.pytest_cache/
+.venv/
+venv/
+device-telemetry-dataset.ndjson
